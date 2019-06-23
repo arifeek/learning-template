@@ -1,0 +1,2 @@
+Sat 22 Jun 2019
+- test getting region totals in close processing
